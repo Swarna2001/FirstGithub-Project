@@ -1,2 +1,3 @@
 # FirstGithub-Project
-this is the first trying of git
+
+In this repo, I experiment with different git commands and try to better understand the working of git and github.
